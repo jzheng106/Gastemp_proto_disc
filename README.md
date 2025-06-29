@@ -1,4 +1,3 @@
-# 2022REU
 Gas temperature predictor for protoplanetary discs. Developed through the 2022 University of Michigan Mathematics REU (Research Experience for Undergraduates) program.
 
 mentored by Maria Han Veiga and Arthur Bosman. Special thanks to the University of Michigan Mathematics Department for making this project possible.
